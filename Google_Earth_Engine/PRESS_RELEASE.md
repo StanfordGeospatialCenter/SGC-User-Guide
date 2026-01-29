@@ -1,4 +1,6 @@
-# Stanford University Unlocks Google Earth Engine for Students and Researchers
+# Stanford University Unlocks Google Earth Engine for Students and Researchers 
+
+# (DRAFT)
 
 ## Collaboration Brings Cutting-Edge Geospatial Analysis Tools to Campus
 
